@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number convert</string>
+    <string name="numberInputHint">Enter number</string>
+    <string name="convertButtonInput">Convert</string>
+</resources>
